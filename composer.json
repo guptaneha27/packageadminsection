@@ -3,8 +3,8 @@
    "name": "lararavelnewpackage/timezones",
    "description": "to show hello world",
    "require": {
-       "php": "*",
-       "another-vendor/package": "*"
+       "php": "*"
+       
    },
    "minimum-stability": "dev",
   "autoload": {
