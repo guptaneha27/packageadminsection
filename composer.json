@@ -1,0 +1,16 @@
+ 
+{
+   "name": "lararavelnewpackage/timezones",
+   "description": "to show hello world",
+   "require": {
+       "php": "*",
+       "another-vendor/package": "*"
+   },
+   "minimum-stability": "dev",
+  "autoload": {
+       "psr-4": {
+           "App\\": "app/",
+           "Lararavelnewpackage\\Timezones\\": "packages/lararavelnewpackage/timezones/src"
+       }
+   }
+}
